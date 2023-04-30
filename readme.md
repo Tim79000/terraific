@@ -11,3 +11,4 @@ FUN!
 # Credits
 AMC45 terraific_holly_leaves.png
 Gerold55 terraific_amaranth_leaves.png
+As you could tell, I'm bad at drawing leaves.
